@@ -1,0 +1,13 @@
+#pg1{
+    background-color: rgb(134, 90, 36);
+}
+#pg2{
+    background-color: rgb(180, 133, 75);
+}
+.tudin{
+    width: 500px;
+    margin: 10px auto;
+    border: 1px solid rgb(245, 233, 66);
+    border-radius: 10px;
+ 
+}
